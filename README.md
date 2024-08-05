@@ -1,4 +1,4 @@
-## Hola, soy Andres Ochoa 👋
+## Hola, soy Andres Ochoa / Hello, i am Andres Ochoa👋
 
 <!--
 **ochoa27/ochoa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
