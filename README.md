@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Andres Ochoa / Hello, i am Andres Ochoa👋</h1>
-<h1>About me!</h1>
+<h1>About me! </h1>
 <h2>My name is Andres people call me by my last name 'ochoa'. I am a systems engineering student, I am passionate about transforming solutions into code, I love continuous learning and keeping up to date with new technologies.<br>
 
 note: I have a gift for making bugs <br><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/></h2>
